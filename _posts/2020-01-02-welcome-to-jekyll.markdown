@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2.기본(1)"
-date:   2020-01-02 19:31:29 +0900
+date:   2020-10-16 19:31:29 +0900
 categories: jekyll update
 ---
 <h2>1 기본 용어</h2>
