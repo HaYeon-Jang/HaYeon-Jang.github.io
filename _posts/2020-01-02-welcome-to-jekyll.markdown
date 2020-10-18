@@ -1,28 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "2.기본(1)"
 date:   2020-01-02 19:31:29 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+1 기본 용어
 
-Jekyll requires blog post files to be named according to the following format:
+1.1 표현식과 문장
 
-`YEAR-MONTH-DAY-title.MARKUP`
+자바스크립트에서는 다음과 같이 값을 만들어내는 간단한 코드를 표현식이라고 한다
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+273  
+10 + 20 + 30 * 2  
+"JavaScript Programmming"
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+표현식이 하나 이상 모이면 문장이 된다. 한국어도 문장 끝에 마침표를 찍듯이 자바스크립트도 코드 문장 마지막에 종결한다는 의미로 세미콜론(;)을 찍는다.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
